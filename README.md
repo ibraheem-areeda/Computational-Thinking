@@ -1,2 +1,4 @@
 # Computational-Thinking
-![](./cc35.png)
+
+| white bord 1| [Link](white bord 2.md)  |
+| white bord 2| [Link](white bord 2.md)  |
