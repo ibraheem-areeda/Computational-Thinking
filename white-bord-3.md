@@ -1,1 +1,1 @@
-![](./white-bord-3.md)
+![](./cc final.png)
