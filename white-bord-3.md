@@ -1,1 +1,1 @@
-![](./cc final.png)
+![](cc final.png)
